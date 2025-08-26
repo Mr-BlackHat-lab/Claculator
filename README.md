@@ -23,7 +23,11 @@ A stylish digital calculator built with **HTML**, **CSS**, and **JavaScript**, f
 3. Start calculating with style!
 
 ## 📁 File Structure
-neon-calculator/ ├── index.html       # Main HTML file ├── style.css        # Styling with neon effects ├── script.js        # Calculator logic └── README.md        # Project documentation
+neon-calculator/
+ ├── index.html       # Main HTML file 
+ ├── style.css        # Styling with neon effects
+ ├── script.js        # Calculator logic 
+ └── README.md        # Project documentation
 
 
 ## 📸 Screenshot
