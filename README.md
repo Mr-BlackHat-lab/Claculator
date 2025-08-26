@@ -36,9 +36,7 @@ neon-calculator/<br>
 
 ## 💡 Future Enhancements
 
-- Add keyboard support
 - Include scientific functions (√, ^, etc.)
-- Toggle between light and dark themes
 - Add sound effects for button clicks
 
 ## 🙌 Author
